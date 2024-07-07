@@ -1,0 +1,25 @@
+{
+  "name": "poke-components-uru",
+  "version": "1.0.0",
+  "description": "Componentes para la pokerex",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cesarpalaciosr/poke-components-uru.git"
+  },
+  "keywords": [],
+  "author": "Cesar Palacios & Jose Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cesarpalaciosr/poke-components-uru/issues"
+  },
+  "homepage": "https://github.com/Cesarpalaciosr/poke-components-uru#readme",
+  "bin": {
+    "poke-components-uru": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
